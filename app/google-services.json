@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_id": "bookmarks-12f78",
+    "project_number": "411045774789",
+    "name": "Bookmarks"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411045774789:android:7af50c0652277162",
+        "client_id": "android:com.test_apps.bookmarks",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.test_apps.bookmarks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411045774789-tnp64c82vfhcbu4lo01qubqih8eprdo1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.test_apps.bookmarks",
+            "certificate_hash": "AF301A2A8C37F88CB2207192EAF42A70C98F9B55"
+          }
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
